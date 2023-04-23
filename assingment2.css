@@ -1,0 +1,64 @@
+#my {
+    background-color: rgb(164, 164, 215);
+    height: 20px;
+    padding: 10px 10px 10px 10px;
+  }
+  #my9 {
+    background-color: #b8bcb1;
+    border: 2px solid red;
+    width: 70%;
+    border-radius: 30px;
+    height: 250px;
+    position: relative;
+    left: 200px;
+    margin-bottom: 20px;
+    position: relative;
+  }
+  #my10 {
+    background-color: #b8bcb1;
+    border: 2px solid red;
+    width: 70%;
+    border-radius: 30px;
+    height: 250px;
+    position: relative;
+    left: 200px;
+    margin-bottom: 20px;
+  }
+  #my11 {
+    background-color: #b8bcb1;
+    border: 2px solid red;
+    width: 70%;
+    border-radius: 30px;
+    height: 250px;
+    position: relative;
+    left: 200px;
+  }
+  
+  #img {
+    width: 100px;
+    height: 200px;
+    float: left;
+    padding: 10px 30px 10px 10px;
+  }
+  #para1 {
+    padding-top: px;
+  }
+  #jon {
+    padding: 20px;
+    padding-bottom: 1px;
+    color: red;
+  }
+  #img2 {
+    width: 100px;
+    height: 200px;
+    float: left;
+    padding: 10px 30px 10px 10px;
+  }
+  #para2 {
+    padding-top: 1px;
+  }
+  #shades {
+    padding: 20px;
+    padding-bottom: 1px;
+    color: red;
+  }
